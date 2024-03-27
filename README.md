@@ -1,4 +1,4 @@
-# TranScript
+# TranScript 🧬
 ---------------------------------------------------
 - Project created using BioPython and TKinter ⌨️
 - TranScript is an simple App created to perform various bioinformatic tasks
