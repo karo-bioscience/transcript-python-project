@@ -119,9 +119,69 @@ image_3 = canvas.create_image(397.0,91.0,image=image_image_3)
 image_image_4 = PhotoImage(file=relative_to_assets("image_4.png"))
 image_4 = canvas.create_image(677.0,91.0,image=image_image_4)
 
+#Additional images
 image_image_5 = PhotoImage(file=relative_to_assets("image_5.png"))
 image_5 = canvas.create_image(958,91,image=image_image_5)
 
+image_image_6 = PhotoImage(file=relative_to_assets("image_6.png"))
+image_6 = canvas.create_image(135.0,441.0,image=image_image_6)
+
+image_image_7 = PhotoImage(file=relative_to_assets("image_7.png"))
+image_7 = canvas.create_image(7.0,441.0,image=image_image_7)
+
+image_image_8 = PhotoImage(file=relative_to_assets("image_8.png"))
+image_8 = canvas.create_image(135.0,441.0,image=image_image_8)
+
+image_image_9 = PhotoImage(file=relative_to_assets("image_9.png"))
+image_9 = canvas.create_image(7.0,441.0,image=image_image_9)
+
+image_image_10 = PhotoImage(file=relative_to_assets("image_10.png"))
+image_10 = canvas.create_image(50.0,441.0,image=image_image_10)
+
+image_image_11 = PhotoImage(file=relative_to_assets("image_11.png"))
+image_11 = canvas.create_image(135.0,275.0,image=image_image_11)
+
+image_image_12 = PhotoImage(file=relative_to_assets("image_12.png"))
+image_12 = canvas.create_image(7.0,275.0,image=image_image_12)
+
+image_image_13 = PhotoImage(file=relative_to_assets("image_13.png"))
+image_13 = canvas.create_image(135.0,275.0,image=image_image_13)
+
+image_image_14 = PhotoImage(file=relative_to_assets("image_14.png"))
+image_14 = canvas.create_image(7.0,275.0,image=image_image_14)
+
+image_image_15 = PhotoImage(file=relative_to_assets("image_15.png"))
+image_15 = canvas.create_image(50.0,275.0,image=image_image_15)
+
+image_image_16 = PhotoImage(file=relative_to_assets("image_16.png"))
+image_16 = canvas.create_image(945.0,441.0,image=image_image_16)
+
+image_image_17 = PhotoImage(file=relative_to_assets("image_17.png"))
+image_17 = canvas.create_image(1072.0,441.0,image=image_image_17)
+
+image_image_18 = PhotoImage(file=relative_to_assets("image_18.png"))
+image_18 = canvas.create_image(945.0,441.0,image=image_image_18)
+
+image_image_19 = PhotoImage(file=relative_to_assets("image_19.png"))
+image_19 = canvas.create_image(1072.0,441.0,image=image_image_19)
+
+image_image_20 = PhotoImage(file=relative_to_assets("image_20.png"))
+image_20 = canvas.create_image(1030.0,441.0,image=image_image_20)
+
+image_image_21 = PhotoImage(file=relative_to_assets("image_21.png"))
+image_21 = canvas.create_image(945.0,275.0,image=image_image_21)
+
+image_image_22 = PhotoImage(file=relative_to_assets("image_22.png"))
+image_22 = canvas.create_image(1072.0,275.0,image=image_image_22)
+
+image_image_23 = PhotoImage(file=relative_to_assets("image_23.png"))
+image_23 = canvas.create_image(945.0,275.0,image=image_image_23)
+
+image_image_24 = PhotoImage(file=relative_to_assets("image_24.png"))
+image_24 = canvas.create_image(1072.0,275.0,image=image_image_24)
+
+image_image_25 = PhotoImage(file=relative_to_assets("image_25.png"))
+image_25 = canvas.create_image(1030.0,275.0,image=image_image_25)
 #run
 window.resizable(False, False)
 window.mainloop()
